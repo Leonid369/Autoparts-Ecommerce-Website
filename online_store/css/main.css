@@ -1,0 +1,120 @@
+body {
+    padding-top: 50px;
+}
+#headerWrapper {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-image: url('../img/bg-hero.jpg');
+    background-position: top center;
+    background-size: 100% 700px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 600px;
+}
+#logotext {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    margin-top: -90px;
+}
+#logotext h2 {
+    line-height: 2;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 10px;
+    font-size: 40px;
+}
+
+#partial-headerWrapper {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-image: url('../img/bg-hero.jpg');
+    background-position: top center;
+    background-size: 100% 700px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 210px;
+}
+#partial-logotext {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    margin-top: -90px;
+
+}
+#partial-logotext h2 {
+    line-height: 2;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 10px;
+    font-size: 40px;
+}
+
+.img-thumb {
+    width: 183px;
+    height: 200px;
+}
+
+#footer {
+    margin-top: 50px;
+}
+
+fotorama__wrap {
+    margin: 15px auto;
+}
+
+.table-auto {
+    width: auto;
+    margin: 0 auto;
+}
+
+#add-product-btn {
+    margin-top: -35px;
+}
+
+.saved-image {
+    text-align: center;
+}
+
+.saved-image img {
+    width: auto;
+    height: 150px;
+}
+
+/* Login form */
+#login-form {
+    width: 40%;
+    height: 60%;
+    color: #fff;
+    border-radius: 15px;
+    margin: 5% auto;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, .5);
+}
+input {
+    background-color: transparent;
+}
+
+.totals-table-header th {
+    text-align: center;
+}
+
+#cart_widget td, #recent_widget {
+    font-size: 12px;
+}
+
+input.price-range {
+    width: 55px;
+    border: 1px solid;
+}
+
+/* Design */
+#orders {
+    background-color: #5C6BC0;
+    color: #fff;
+    padding: 1%;
+}
