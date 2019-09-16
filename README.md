@@ -1,5 +1,7 @@
 # Autoparts-Ecommerce-Website
 
+(Individual Course Project)
+
 CS6314.001-Team10-AutoParts-Store.pdf- Explains the complete functioning of the website 
 
 Introduction and Instructions to run: 
