@@ -1,5 +1,5 @@
-# Autoparts-Ecommerce-Website
-(Individual Course Project)
+# Autoparts-Ecommerce-Website - (Individual Course Project)
+
 
 
 
